@@ -2,9 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://yogcat.github.io/books/</loc>
+      <loc>https://yogcat.github.io/random/</loc>
       
-      <lastmod>2021-07-02T17:52:28+08:00</lastmod>
+      <lastmod>2021-07-04T21:08:24+08:00</lastmod>
       
       
       
@@ -14,6 +14,26 @@
     <url>
       <loc>https://yogcat.github.io/</loc>
       
+      <lastmod>2021-07-04T21:08:24+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://yogcat.github.io/random/realife/</loc>
+      
+      <lastmod>2021-07-04T21:08:24+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://yogcat.github.io/random/random5/</loc>
+      
       <lastmod>2021-07-02T17:52:28+08:00</lastmod>
       
       
@@ -22,17 +42,7 @@
     </url>
   
     <url>
-      <loc>https://yogcat.github.io/books/random5/</loc>
-      
-      <lastmod>2021-07-02T17:52:28+08:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://yogcat.github.io/books/random4/</loc>
+      <loc>https://yogcat.github.io/random/random4/</loc>
       
       <lastmod>2021-06-25T19:11:43+08:00</lastmod>
       
@@ -42,7 +52,7 @@
     </url>
   
     <url>
-      <loc>https://yogcat.github.io/books/random3/</loc>
+      <loc>https://yogcat.github.io/random/random3/</loc>
       
       <lastmod>2021-06-22T08:43:00+08:00</lastmod>
       
@@ -52,7 +62,7 @@
     </url>
   
     <url>
-      <loc>https://yogcat.github.io/books/randomdraft/</loc>
+      <loc>https://yogcat.github.io/random/randomdraft/</loc>
       
       <lastmod>2021-06-18T19:20:57+08:00</lastmod>
       
@@ -62,7 +72,7 @@
     </url>
   
     <url>
-      <loc>https://yogcat.github.io/books/random2/</loc>
+      <loc>https://yogcat.github.io/random/random2/</loc>
       
       <lastmod>2021-06-13T10:42:33+08:00</lastmod>
       
@@ -72,7 +82,7 @@
     </url>
   
     <url>
-      <loc>https://yogcat.github.io/books/random1/</loc>
+      <loc>https://yogcat.github.io/random/random1/</loc>
       
       <lastmod>2021-06-08T21:03:05+08:00</lastmod>
       
@@ -95,6 +105,16 @@
       <loc>https://yogcat.github.io/nonsense/sip/</loc>
       
       <lastmod>2021-05-09T13:53:46+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://yogcat.github.io/books/</loc>
+      
+      <lastmod>2021-05-07T15:58:08+08:00</lastmod>
       
       
       
